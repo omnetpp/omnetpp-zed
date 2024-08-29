@@ -7,5 +7,5 @@ description = "Highlight MSG files with Tree-sitter"
 repository = "https://github.com/adamgeoge309/omnetpp-msg-zed"
 
 [grammars.msg]
-repository = "https://github.com/adamgeorge309/omnetpp-msg-ts"
-commit = "9e75c4ac9cd926ebd8fdf13b7d548b1a570e5671"
+repository = "https://github.com/omnetpp/tree-sitter-msg"
+commit = "4b0b2a657ba40837fb5a84a066290842c9a5a2b8"
