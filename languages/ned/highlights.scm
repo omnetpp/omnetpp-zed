@@ -25,6 +25,7 @@
 (package (name) @value)
 (type) @type
 (property "@" @emphasis.strong (name) @emphasis.strong)
+(_STRINGCONSTANT) @string
 ; (property (name) @prop_name)
 ;(cplusplus (body) @cpp_body)
 ;(cplusplus (target) @target)
