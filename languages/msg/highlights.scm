@@ -18,7 +18,8 @@
 ; (import (name) @value)
 (name) @value
 (type) @type
-(property (name) @prop_name)
+(property "@" @emphasis.strong (name) @emphasis.strong)
+; (property (name) @prop_name)
 (cplusplus (body) @cpp_body)
 (cplusplus (target) @target)
 (value) @value
