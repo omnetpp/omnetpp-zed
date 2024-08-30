@@ -7,4 +7,4 @@ Installing
 Currently, the extension can only be installed locally, i.e., it isn't in the Zed extension repository. To install locally:
 
 - Clone this repository
-- In Zed, select Extensions/Install Dev Extension, and select the omnetpp-zed folder
+- In Zed, select `Extensions`/`Install Dev Extension`, and select the `omnetpp-zed` folder
