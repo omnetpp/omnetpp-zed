@@ -13,7 +13,8 @@
 "package" @keyword
 "extends" @keyword
 "channel" @keyword
-;"parameters" @keyword
+; "parameters" @keyword
+"parameters:" @keyword  ; kludge, because "parameters" is an invalid node type for some reason
 "connections" @keyword
 "gates" @keyword
 "submodules" @keyword
