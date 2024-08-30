@@ -23,7 +23,7 @@
 (import (name) @value)
 (package (name) @value)
 (type) @type
-(property "@" @property (name) @property)
+(property "@" @emphasis.strong (name) @emphasis.strong)
 ; (property (name) @prop_name)
 ;(cplusplus (body) @cpp_body)
 ;(cplusplus (target) @target)
