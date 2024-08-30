@@ -4,7 +4,7 @@ version = "0.0.1"
 schema_version = 1
 authors = ["Gyorgy Szaszko <adam.szaszko@gmail.com>"]
 description = "Highlight MSG and NED files"
-repository = "https://github.com/adamgeoge309/omnetpp-msg-zed"
+repository = "https://github.com/adamgeoge309/omnetpp-zed"
 
 [grammars.msg]
 repository = "https://github.com/omnetpp/tree-sitter-msg"
