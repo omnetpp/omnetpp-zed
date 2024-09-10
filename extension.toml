@@ -1,5 +1,5 @@
 id = "omnetpp-treesitter"
-name = "OMNeT++ MSG and NED extension for the Zed editor"
+name = "OMNeT++ MSG and NED extension"
 version = "0.0.1"
 schema_version = 1
 authors = ["Gyorgy Szaszko <adam.szaszko@gmail.com>"]
