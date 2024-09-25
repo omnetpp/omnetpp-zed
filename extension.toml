@@ -1,4 +1,4 @@
-id = "omnetpp-treesitter"
+id = "omnetpp"
 name = "OMNeT++ MSG and NED extension"
 version = "0.0.1"
 schema_version = 1
