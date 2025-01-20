@@ -13,6 +13,8 @@
 "enum" @keyword
 "extends" @keyword
 "cplusplus" @keyword
+"message" @keyword
+"namespace" @keyword
 (comment) @comment
 ; (importspec) @value
 ; (import (name) @value)
