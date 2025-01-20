@@ -1,6 +1,6 @@
 id = "omnetpp"
 name = "OMNeT++ MSG and NED extension"
-version = "0.0.1"
+version = "0.0.2"
 schema_version = 1
 authors = ["Gyorgy Szaszko <adam.szaszko@gmail.com>"]
 description = "Highlight MSG and NED files"

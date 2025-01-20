@@ -1,3 +1,3 @@
-name = "omnetpp-msg"
+name = "OMNeT++ MSG"
 grammar = "msg"
 path_suffixes = ["msg"]
