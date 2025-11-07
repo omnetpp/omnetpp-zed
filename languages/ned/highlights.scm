@@ -13,12 +13,12 @@
 "package" @keyword
 "extends" @keyword
 "channel" @keyword
-; "parameters" @keyword
-"parameters:" @keyword  ; kludge, because "parameters" is an invalid node type for some reason
+"parameters" @keyword
 "connections" @keyword
 "gates" @keyword
 "submodules" @keyword
 "like" @keyword
+"parent" @keyword
 (comment) @comment
 ; (importspec) @value
 (import (name) @value)

@@ -12,4 +12,4 @@ commit = "49f037483a07b72edea169c7d9a0961225a633f2"
 
 [grammars.ned]
 repository = "https://github.com/omnetpp/tree-sitter-ned"
-commit = "f695601b75883acefe8cde1065bd52b7b7cba45b"
+commit = "17f3e0bf95bc5dff79a7181bd8c489ec747766fb"
